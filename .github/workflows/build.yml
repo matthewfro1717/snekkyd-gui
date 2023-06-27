@@ -78,3 +78,4 @@ jobs:
         with:
           name: snekkyd-gui-linux
           path: "tools/build/linux/Snekky_Decompiler-x86_64.AppImage"
+ 
